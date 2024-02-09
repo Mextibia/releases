@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "tibia",
 	"newClientUrl" : "https://github.com/Mextibia/Descargas/releases/download/untagged-221ca961f687f20086b2/tibia.zip",
 	"clientExecutable": "client.exe"
 }
