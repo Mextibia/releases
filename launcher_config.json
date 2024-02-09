@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "tibia",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/Mextibia/releases/releases/download/tibia/Tibia.zip",
 	"clientExecutable": "client.exe"
 }
