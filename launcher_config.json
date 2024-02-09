@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "MexTibia",
-	"launcherVersion": " By Waxtra",
+	"launcherVersion": "By Waxtra",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
